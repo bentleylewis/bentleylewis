@@ -1,4 +1,4 @@
-👋 Hi, I'm Bentley — a Computer Science student at Oklahoma State University, passionate about building real-world software.
+👋 Hi, I'm Bentley — a Computer Science student at Oklahoma State University.
 
 💻 Currently exploring front-end development with JavaScript, React, and AWS.
 
