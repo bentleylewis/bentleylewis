@@ -1,8 +1,8 @@
 👋 Hi, I'm Bentley — a Computer Science student at Oklahoma State University.
 
-💻 Currently exploring front-end development with JavaScript, React, and AWS.
+💻 Currently exploring front-end development with JavaScript and React.
 
-🚀 Interning as a Software Engineer at Flint Hills Resources (Summer 2025).
+🚀 I recently interned as a Software Engineer at Flint Hills Resources (Summer 2025).
 
 📚 Constantly learning, coding, and sharing my journey.
 
